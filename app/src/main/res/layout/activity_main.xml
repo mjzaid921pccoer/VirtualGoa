@@ -19,7 +19,7 @@
 
         android:layout_width="match_parent"
         android:layout_height="200dp"
-        android:background="#34C7C4C4">
+        android:background="#4AC7C4C4">
 
         <ImageView
             android:id="@+id/imageView"

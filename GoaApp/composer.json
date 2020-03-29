@@ -1,0 +1,7 @@
+{
+	
+    "require": {
+        "jtejido/geodesy-php": "^1.41",
+        "php": "^7.0.0"
+    }
+}
